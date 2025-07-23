@@ -1,0 +1,10 @@
+Get 10+ seasons data of NBA players including team stats, game results, betting odds
+-nba api , kaggle datasets
+
+Data which we need to collect
+- game info 
+    - Date, gameaway/home, teams, final score
+- Team stats 
+    - offensive/defensive rating, 3pt%, feildgoal %, turnovers, leading scorer
+- Betting lines 
+    - Moneyline odds (decimal or american format)
